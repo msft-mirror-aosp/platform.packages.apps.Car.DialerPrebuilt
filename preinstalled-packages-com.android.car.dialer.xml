@@ -20,5 +20,6 @@
 <config>
     <install-in-user-type package="com.android.car.dialer">
         <install-in user-type="FULL" />
+        <do-not-install-in user-type="SYSTEM" />
     </install-in-user-type>
 </config>
